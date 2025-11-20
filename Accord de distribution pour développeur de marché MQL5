@@ -1,0 +1,290 @@
+https://www.mql5.com/fr/market/terms/developer
+
+Accord de distribution pour développeur de marché MQL5
+Veuillez lire attentivement les termes et conditions du présent accord. Les termes capitalisés utilisés dans le présent accord sont définis conformément à la section I du présent accord.
+
+
+
+I. Termes et définitions
+Aux fins du présent accord, les termes suivants ont le sens ci-après :
+
+« MetaQuotes Ltd » désigne la société MetaQuotes Ltd, titulaire des droits sur le site www.mql5.com.
+
+« MetaQuotes » désigne la société MetaQuotes Ltd.
+
+« Marché » désigne le marché contrôlé par MetaQuotes Ltd, situé à l'adresse www.mql5.com, où les développeurs enregistrés sont autorisés à distribuer des produits aux utilisateurs.
+
+« Utilisateur » désigne toute personne ou entité enregistrée auprès de Market et autorisée à utiliser Market conformément aux termes et conditions de l'Accord sur les Conditions d'utilisation du marché.
+
+« Produit » désigne un logiciel informatique, ainsi que ses révisions, mises à jour et nouvelles versions, écrit dans les langages de programmation MetaQuotes Language 4 (MQL4) ou MetaQuotes Language 5 (MQL5), conçu comme une application pouvant être lancée par l'Utilisateur dans le terminal client correspondant MetaTrader 4 ou MetaTrader 5 et dont le droit d’auteur est détenu par le Développeur. La trousse de distribution du produit est distribuée sur l'internet par le service Market sous forme électronique. Aucun support tangible ne sera remis à l'Utilisateur.
+
+« Licence de Produit » désigne une licence limitée, personnelle, non exclusive, ordinaire, non concevable en sous-licence et non transférable sur le Produit, qui est acquise par l'Utilisateur auprès de MetaQuotes Ltd via le service Marché et accorde à l'Utilisateur le droit de télécharger, d'installer et d'utiliser le Produit sur son ordinateur à des fins de négociation sur les marchés financiers et exclusivement pour une utilisation avec le Logiciel MetaQuotes qui peut être explicitement fourni par MetaQuotes.
+
+« Développeur » signifie que vous, en tant qu’une personne ou entité enregistrée auprès de Market et autorisée à distribuer des Produits selon les termes et conditions du présent Accord.
+
+« Vous » signifie Vous en tant que développeur et utilisateur de Market (« Votre » et « Le vôtre » doivent être interprétés selon leur contexte).
+
+« Traitement des paiements » désigne un système de paiement autorisé par MetaQuotes Ltd pour fournir des services de traitement des paiements liés aux transactions financières au service Market.
+
+« Compte de paiement » désigne un compte financier émis par le Processeur de paiement dans son système de paiement en vertu d'un accord distinct avec un Utilisateur ou un Développeur dont l'utilisation du Compte de paiement doit être approuvée par le Processeur de paiement.
+
+« Logiciel MetaQuotes » désigne le logiciel développé par MetaQuotes Ltd, sous les marques déposées « MetaTrader », « MQL4 », « MetaTrader 5 » et « MQL5 », ainsi que les mises à jour, mises à niveau, révisions, modifications, nouvelles versions et composants associés, y compris, mais sans s'y limiter, les terminaux commerciaux MetaTrader 4 et MetaTrader 5, l'IDE de MQL, l'interface utilisateur, la documentation et le site Web MetaQuotes.
+
+« Terminal client » désigne soit le terminal de négociation MetaTrader 4 ou MetaTrader 5 qui représente le poste de travail d'un opérateur et permet à un opérateur de négocier sur les marchés financiers. Outre ses mises à jour, mises à niveau, révisions et nouvelles versions, Client Terminal inclut les composants suivants :
+
+Trading Terminal est un composant conçu pour le trading sur les marchés financiers, l'analyse des prix, le lancement d'applications écrites en langage de programmation MQL4 ou MQL5, le test et l'optimisation de programmes de trading automatisés écrits en MQL4 ou MQL5 ;
+MQL Integrated Development Environment (MQL IDE) est un ensemble d'outils de programme pour le développement d'applications de programme dans MetaQuotes Language 4 (MQL4) ou MetaQuotes Language 5 (MQL5) qui peuvent être utilisés dans les terminaux de trading MetaTrader 4 ou MetaTrader 5, respectivement. MQL IDE comprend les composants suivants :
+MetaQuotes Language 4 (MQL4) ou MetaQuotes Language 5 (MQL5) sont des langages de programmation pour le développement d'applications de programme lancées respectivement dans les terminaux de trading MetaTrader 4 ou MetaTrader 5. Le processus de génération de code source du programme nécessite l'utilisation de fichiers texte .MQH, .MQ4 ou .MQ5 créés dans l'éditeur de code source MetaEditor. Les applications de programme qui peuvent être lancées dans le terminal de négociation sont représentées par des fichiers .EX4 ou .EX5 générés à la suite de la compilation du code source MQL4 ou MQL5 correspondant à l'aide du compilateur de langage MetaQuotes ;
+MetaEditor est un éditeur qui est utilisé pour développer le code de programme en langage de programmation MQL4 ou MQL5 et pour le compiler davantage à l’aide du compilateur de langage MetaQuotes ;
+MetaQuotes Language Compiler est un compilateur de code source MQL4 ou MQL5 conçu pour créer des fichiers exécutables pouvant être exécutés dans le terminal client ;
+Strategy Tester fait partie du terminal client conçu pour tester et optimiser des programmes de trading automatisés écrits en langage de programmation MQL4 ou MQL5 ;
+L'interface de programme est un ensemble d'outils qui permettent à l'utilisateur final d'interagir avec le produit, y compris, sans s'y limiter, les éléments des graphiques du produit ci-après : bouton, case d'option, case à cocher, icône, zone de liste, arborescence, zone de texte, grille, menu, fenêtre, onglet, barre d'outils, barre de défilement, curseur, barre d'état, info-bulle ;
+Documentation désigne toute documentation publiée en ligne ou fournie par MetaQuotes Ltd, y compris, mais sans s'y limiter, les fichiers .CHM installés avec le produit ou chargés au cours de son utilisation.
+
+« Accord » désigne le présent Accord de distribution aux développeurs du marché conclu entre MetaQuotes Ltd et le développeur, ainsi que les versions futures mises à jour, modifiées et/ou amendées des présentes, telles qu'elles sont actuellement ou ultérieurement en vigueur.
+
+Le terme « Règles » se reporte aux règles et conditions de service Market qui s'appliquent à votre utilisation du service Market, publiées ou déclarées en sus du présent Accord.
+
+« Date d'entrée en vigueur » désigne la date à laquelle le présent Accord est conclu en cliquant sur le bouton « Continuer », « Accepter » ou un bouton similaire, conformément à la procédure décrite ci-dessous.
+
+« Conditions supplémentaires » désigne les conditions générales qui s'appliquent à votre utilisation du Logiciel, des Produits et du Site Web de MetaQuotes Ltd, publié ou déclaré en sus du présent Accord.
+
+« Entités affiliées » désigne toute personne morale, société ou autre entité qui contrôle directement ou indirectement l'exploitation de MetaQuotes Ltd, qui est contrôlée par MetaQuotes Ltd ou qui est contrôlée par des tiers avec MetaQuotes Ltd. Aux fins du présent document, on entend par « contrôle » et « contrôle par » la propriété directe ou indirecte de plus de 50 % (50 %) des actions ordinaires émises et en circulation d'une personne morale, d'une société ou d'une autre entité.
+
+« Contenu » désigne tout contenu, y compris le texte, les fichiers audio, les images, les photos, les vidéos et/ou tout autre type d'information ou de communication.
+
+« Marques déposées » : les noms de marques de commerce et de services, les logos, les noms de domaine et autres caractéristiques distinctives des marques commerciales de leurs propriétaires respectifs (ou titulaires de licence).
+
+« Droits de propriété intellectuelle » : les brevets, les demandes de brevet, les dessins, les marques déposées et les noms commerciaux (enregistrés et non enregistrés), les droits d'auteur et autres droits similaires, les droits sur les bases de données, la technologie, le savoir-faire et les informations confidentielles, tous les autres droits de propriété intellectuelle et les droits similaires ou équivalents partout dans le monde qui existent ou pourraient exister dans le futur, ainsi que les demandes, les modifications et les amendements de l'un quelconque de ces droits.
+
+« Site Web MetaQuotes » désigne tous les éléments, le contenu et le style (aspect et texture) du site Web, y compris les domaines de 3e niveau, avec les adresses URL www.metaquotes.net, www.metatrader4.com, www.mql4.com et www.metatrader5.com (entre autres adresses URL) à partir desquelles le logiciel MetaQuotes peut être téléchargé.
+
+« Site Web de MetaQuotes Ltd » signifie tous les éléments, le contenu et le style (aspect et texture) du site Web, y compris les domaines de 3e niveau, avec l'adresse URL www.mql5.com.
+
+« Matériaux en ligne de MetaQuotes Ltd » désigne les matériaux disponibles pour téléchargement sur le site Web de MetaQuotes Ltd, ainsi que toute modification apportée par MetaQuotes Ltd à sa seule discrétion.
+
+« Matériaux Publicitaires MetaQuotes Ltd » désigne les marques déposées, noms, marques, logos, bannières et tout autre matériel sous quelque forme que ce soit appartenant à MetaQuotes Ltd et/ou utilisé par celle-ci pour promouvoir la société, ses produits ou ses activités.
+
+« Employés de MetaQuotes Ltd » désigne les dirigeants, les administrateurs, les employés et les représentants de MetaQuotes Ltd ou des entités affiliées, ainsi que toute autre personne employée par MetaQuotes Ltd ou ses entités affiliées.
+
+« Compte » ou « Identifiant MQL5 » signifie un compte avec Login et Mot de passe créé pour votre utilisation de Market.
+
+« Login » signifie un code d'identification qui, en combinaison avec le Mot de passe, vous donne accès à votre compte.
+
+« Mot de passe » signifie un code que vous sélectionnez, qui, en combinaison avec le Login, vous donne accès à votre compte.
+
+Les mots utilisés au singulier comprennent le pluriel, et vice versa, selon le cas.
+
+Les mots qui suivent les termes (sous quelque forme que ce soit) « y compris », « entre autres choses », « en particulier » et les expressions similaires sont considérés comme illustratifs et ne limitent pas le sens des mots qui précèdent ces termes.
+
+
+
+II. Généralités
+1. Le présent Accord, ainsi que toute mise à jour des présentes, constitue l'intégralité de l'accord conclu entre Vous et MetaQuotes Ltd en relation avec Votre utilisation du Service Market sur www.mql5.com pour naviguer, rechercher et télécharger des Produits et acheter des Licences de Produits à utiliser dans le Terminal Client MetaTrader 4/5 selon les termes et conditions stipulés dans le présent Accord.
+
+En cliquant sur le bouton « Continuer », « Accepter » ou un bouton similaire ou un lien approprié, vous acceptez les termes et conditions du présent Accord.
+
+Vous acceptez que MetaQuotes Ltd ne sera pas tenu responsable des produits soumis à Market par vous ou tout tiers développeur. En outre, certaines licences de produits peuvent être offertes gratuitement, tandis que d'autres sont payantes. Vous êtes seul responsable des paiements relatifs aux transactions effectuées sur Market.
+
+Le Développeur qui n'a pas accepté d'être lié par les termes et conditions du présent Accord n'a aucun droit de distribuer des Produits via le service Market.
+
+Le service Market est ouvert aux personnes âgées de 18 ans et plus.
+
+Le présent Accord cessera automatiquement d'être en vigueur s'il apparaît que Vous n'êtes (а) pas un Utilisateur enregistré du service MQL5 Market, ou (b) âgé de moins de 18 ans, ou (c) une personne ou une entité à qui il est interdit d'utiliser le Logiciel MetaQuotes en vertu des lois de tout pays, y compris le pays dans lequel Vous résidez ou à partir duquel Vous utilisez le Logiciel MetaQuotes.
+
+Si vous êtes un employé ou un cadre de l'entreprise et que vous utilisez Market au nom de votre société (« Société »), vous reconnaissez et acceptez que :
+
+en acceptant d'être lié par le présent Accord de distribution destiné au développeur de marché et en utilisant Market, vous déclarez et garantissez que vous êtes explicitement autorisé à le faire par la Société en fonction de la conformité de votre Société au présent Accord concernant l'utilisation de Market par Vous et la Société ;
+Vous avez obtenu tous les consentements, approbations et autorisations nécessaires de la part de la Société, ce qui vous permet d'agir officiellement au nom de la Société en vertu du présent Accord de distribution aux développeurs de Market. Vous déclarez et garantissez avoir obtenu ces consentements, approbations et autorisations pour utiliser Market au nom de la Société. Si vous ne disposez pas d'autorité requise, il vous est impossible d’utiliser Market.
+
+Votre accord avec MetaQuotes Ltd peut également couvrir les Conditions supplémentaires publiées ou déclarées par MetaQuotes Ltd sur Internet ou sur le site Web de MetaQuotes Ltd. Les Conditions supplémentaires incluent, sans s’y limiter, les conditions générales énoncées dans le présent Accord.
+
+Avant d'utiliser le terminal de trading, les produits, les logiciels et le site Web MetaQuotes, vous devez lire et accepter les accords de licence correspondants et les conditions supplémentaires concernant les produits ou services offerts par MetaQuotes. Vous pouvez accepter de tels accords ou conditions en cliquant sur le bouton approprié ou comme suggéré par MetaQuotes ou en utilisant le Terminal client, les produits, les services et le site Web MetaQuotes en vertu duquel vous acceptez et reconnaissez que par une telle utilisation, vous acceptez les accords ou conditions y afférents.
+
+Vous reconnaissez et convenez qu'en acceptant les termes et conditions du présent Accord, ainsi que les Règles et les Conditions Supplémentaires, vous concluez un accord juridiquement contraignant avec MetaQuotes Ltd. En cas de conflit entre les Règles, les Conditions Supplémentaires et le présent Accord, les Règles et les Conditions Supplémentaires prévaudront à l'égard de tout service particulier fourni par MetaQuotes Ltd. Nous vous recommandons d'imprimer et de conserver une copie du présent Accord.
+
+Vous consentez par les présentes à l'utilisation de la communication électronique pour conclure des ententes, des contrats, effectuer des paiements, passer des commandes et d'autres documents, ainsi qu'à la livraison électronique des avis, des régulations et des dossiers des transactions initiées ou effectuées par l'entremise du service Market.
+
+De plus, Vous renoncez par les présentes à tout droit ou exigence en vertu de toute loi ou de tout règlement devant toute juridiction qui exige une signature originale non électronique ou la livraison ou la conservation de documents non électroniques, dans la mesure permise par la loi obligatoire applicable.
+
+Si vous êtes un résident d'une juridiction où l'utilisation du logiciel MetaQuotes ou du service Market est interdite par la loi en raison d'exigences différentes ou d'une interdiction complète de l'utilisation du logiciel MetaQuotes ou du service Market dans une telle juridiction, ne les installez pas ou ne les utilisez pas.
+
+L'utilisation de Market nécessite des appareils compatibles (ordinateur, téléphone mobile, etc.) et un accès Internet. Market peut utiliser les ressources de votre ordinateur (ou autre périphérique), y compris, mais sans s'y limiter, le processeur, la mémoire et la connectivité réseau pour assurer la fonctionnalité Market. MetaQuotes Ltd fera des efforts commercialement raisonnables pour protéger la confidentialité et l'intégrité de vos ressources informatiques et de vos communications. L'utilisateur reconnaît et accepte, cependant, que MetaQuotes Ltd ne peut donner aucune garantie à cet égard.
+
+
+
+III. Octroi de licence et restrictions
+Vous accordez à MetaQuotes Ltd une licence non exclusive, universelle et exempte de redevance pour copier, afficher et utiliser des produits à des fins administratives et de démonstration dans le cadre du déploiement de produits dans Market.
+
+Vous accordez à MetaQuotes Ltd une licence non exclusive et exempte de redevance pour vendre des licences de produits et distribuer des produits en fonction des options de publication sélectionnées par vous sur la page de téléchargement de produits dans Market.
+
+MetaQuotes Ltd peut engager les services de consultants et d'autres entrepreneurs dans le cadre de l'exécution des obligations et de l'exercice des droits en vertu du présent Accord, à condition que ces consultants et entrepreneurs soient liés par les mêmes obligations que MetaQuotes Ltd. Après la résiliation du présent Accord, MetaQuotes Ltd arrêtera la distribution de votre produit via Market.
+
+Vous accordez à l'Utilisateur une Licence non exclusive pour le Produit qui est vendu par MetaQuotes Ltd à l'Utilisateur via Market, tandis que les Produits disponibles via Market ne sont pas vendus à l'Utilisateur. La Licence de Produit est valable dans le monde entier et permet à l'Utilisateur d'afficher et d'utiliser le Produit dans le Terminal Client à son propre avantage. Vous pouvez, à votre guise, conclure un Accord de Licence Utilisateur Final (EULA) séparé d’avec l'Utilisateur pour l'utilisation du Produit qui régira les droits de l'Utilisateur sur celui-ci.
+
+La Licence de Produit constitue un accord contraignant entre Vous et l'Utilisateur du Produit régissant l'utilisation de Votre Produit par l'Utilisateur. Sauf indication contraire dans l’Accord de Licence Utilisateur Final, les limitations suivantes des droits d'utilisation du Produit par l'Utilisateur s'appliquent :
+
+L'Utilisateur ne doit pas vendre, céder, sous-licencier, donner en location, louer, distribuer, publier, exporter, importer ou transférer de quelque manière que ce soit les droits d'utilisation du Produit ou de tout composant de celui-ci à un tiers ;
+L'Utilisateur ne doit pas entreprendre, causer, permettre ou autoriser la modification, la traduction, la création de produits similaires, la décompilation, le démontage, le décryptage, le piratage du Produit, ainsi que la création d'œuvres dérivées ;
+Sauf autorisation écrite expresse du Développeur du produit, l'Utilisateur ne doit pas distribuer le Produit sur Internet ;
+L'utilisateur est autorisé à réinstaller le Produit distribué via Market sur d'autres appareils.
+
+Vous déclarez et garantissez que vous disposez de tous les droits de propriété intellectuelle, y compris tous les brevets, marques de commerce, secrets commerciaux, droits d'auteur ou autres droits de propriété nécessaires, sur et pour le Produit. Si Vous utilisez des matériaux de tiers, Vous déclarez et garantissez que vous avez le droit de distribuer lesdits matériaux assimilés au Produit. Vous acceptez de ne pas soumettre à Market un matériau protégé par le droit d'auteur, par le secret commercial ou par d'autres moyens soumis à des droits de propriété de tiers, y compris des droits de brevet, de confidentialité et de publicité, à moins que vous ne soyez le propriétaire de ces droits ou n'ayez la permission de leur propriétaire légitime pour le soumettre.
+
+Tous les droits sur les marques, ainsi que les droits de propriété et les titres, y compris, mais sans s'y limiter, tous les droits sur la propriété intellectuelle, sont la propriété de leurs propriétaires ou titulaires de licence respectifs. Sauf disposition contraire du présent Accord, aucune des parties n'accorde à l'autre partie un droit, un titre ou un intérêt (y compris, mais sans s'y limiter, une quelconque licence implicite) sur ou pour des Marques. Sous réserve des termes et conditions du présent Accord, le Développeur accorde à MetaQuotes Ltd et à ses Entités affiliées une licence limitée et non exclusive pour l'affichage en ligne des Caractéristiques de la Marque du Développeur fournies par le Développeur à MetaQuotes Ltd, sur des ordinateurs et des appareils mobiles, uniquement pour utilisation dans le cadre de la distribution et de la vente du Produit du Développeur sur Market et afin de remplir ses obligations en vertu du présent Accord. Si le Développeur discontinue avec la distribution de produits spécifiques sur Market, MetaQuotes Ltd cessera d'utiliser les Fonctionnalités de la marque des produits discontinués conformément à la clause III.6. Rien dans le présent Accord ne confère au Développeur le droit d'utiliser des noms commerciaux, des marques de commerce, des marques de service, des logos, des noms de domaine ou d'autres fonctionnalités de marque distinctives de MetaQuotes Ltd et de MetaQuotes.
+
+Publicité. En plus de la licence, telle qu'elle est décrite à la clause III.6., pour la commercialisation de la présence, de la distribution et de la vente du Produit du Développeur via Market, MetaQuotes Ltd et ses Entités affiliées peuvent inclure les fonctionnalités de la marque du Développeur fournies par le Développeur à MetaQuotes Ltd :
+
+dans Market
+dans les communications en ligne ou mobiles hors Market, lorsqu'elles sont mentionnées avec d'autres produits Market ;
+lors de l'annonce de la disponibilité du Produit en ligne ou sur des appareils mobiles ;
+dans les présentations ; et
+dans les listes de clients qui apparaissent en ligne ou sur les appareils mobiles (y compris, sans s'y limiter, les listes de clients affichées sur les sites Web de MetaQuotes Ltd). Si le Développeur discontinue avec la distribution de produits spécifiques sur Market, MetaQuotes Ltd cessera d'utiliser les Fonctionnalités de la marque des produits discontinués pour de telles fins de marketing.
+
+
+IV. Utilisation de Market par le développeur
+À l'exception des droits que vous avez accordés à MetaQuotes Ltd en vertu de la licence conformément à la section III, MetaQuotes Ltd convient qu'elle n'obtient aucun droit, titre ou intérêt de votre part (ou de vos concédants de licence) en vertu du présent Accord sur ou pour les Produits, y compris les droits de propriété intellectuelle qui subsistent dans les demandes ou le pourcentage des ventes.
+
+Vous acceptez d'utiliser le Marché uniquement à des fins qui sont autorisées par (a) le présent Accord et (b) loi, règlement ou des pratiques ou lignes directrices généralement acceptées dans les juridictions concernées.
+
+Vous acceptez que si vous utilisez Market pour distribuer des produits, vous protégerez la vie privée et les droits légaux des utilisateurs. Si les Utilisateurs vous fournissent, ou si Votre Produit accède ou utilise des données telles que des noms d'utilisateurs, des mots de passe ou d'autres renseignements d'enregistrement, vous devez informer les Utilisateurs que de telles données seront disponibles pour votre Produit, et vous devez produire un avis de confidentialité et une protection adéquats pour ces Utilisateurs. En outre, votre Produit ne peut utiliser ces informations qu'aux fins limitées pour lesquelles les Utilisateurs vous ont autorisé à le faire. Si votre Produit stocke des informations personnelles ou sensibles fournies par les Utilisateurs, il doit le faire en toute sécurité et seulement pour la durée requise. Mais si l'Utilisateur a opté pour un accord séparé avec Vous qui vous permet, à vous ou à votre Produit, de stocker ou d'utiliser des informations personnelles ou sensibles directement liées à ce Produit (à l'exclusion d'autres Produits ou applications), les termes de cet accord séparé régiront votre utilisation de ces informations. Si l'utilisateur fournit à votre Produit les informations de son compte pour le logiciel MetaQuotes, votre Produit ne peut utiliser ces informations pour accéder au compte de l'Utilisateur pour le logiciel MetaQuotes que lorsque, et pour les fins limitées pour lesquelles, l'Utilisateur vous a donné l'autorisation de le faire.
+
+Actions interdites. Vous acceptez de ne pas vous engager dans une activité (y compris le développement et la distribution de Produits) qui interfère, perturbe ou endommage de quelque manière que ce soit les appareils, les serveurs, les réseaux ou d'autres propriétés ou services de tiers, y compris les utilisateurs de MetaTrader 5 Trading Terminal, MetaQuotes Ltd, MetaQuotes ou les opérateurs de réseaux de télécommunications. Vous ne pouvez pas utiliser les informations sur les clients obtenues auprès de Market pour vendre ou distribuer des Produits hors Market. Les Produits ne peuvent pas contenir de restrictions délibérées de fonctionnement ou modifier leurs fonctionnalités en fonction du type de compte, du numéro de compte, du nom du serveur commercial et d'autres conditions similaires dans lesquelles ils sont utilisés.
+
+Non-concurrence. Vous ne pouvez pas utiliser Market pour distribuer ou rendre disponible un Produit dont le but principal est de faciliter la distribution d'applications logicielles pour MetaTrader 5 Trading Terminal en dehors de Market.
+
+Vous reconnaissez être le seul responsable (et que MetaQuotes Ltd n'a aucune responsabilité envers vous ou envers un tiers) des Produits que vous distribuez via Market et des conséquences de vos actions (y compris les pertes ou dommages que MetaQuotes Ltd peut subir) en agissant ainsi.
+
+Vous reconnaissez être le seul responsable (et que MetaQuotes Ltd n'a aucune responsabilité envers vous ou envers un tiers) de toute violation de vos obligations en vertu du présent Accord, de tout contrat de tiers applicable ou des conditions de service, ou de toute loi ou réglementation applicable, et des conséquences de toute violation de ce genre (y compris toute perte ou tout dommage que MetaQuotes Ltd ou un tiers peut subir).
+
+Évaluations des produits. Les Utilisateurs de Market sont autorisés à évaluer les produits. Seuls les Utilisateurs qui ont téléchargé la version complète du Produit applicable pourront l'évaluer, avec des Produits mieux cotés généralement mieux placés, sous réserve de la capacité de MetaQuotes Ltd de modifier le classement des Produits à sa seule discrétion. L'administration Market peut également attribuer un score composite à tout produit qui n'a pas reçu les évaluations des utilisateurs. Un score composite Développeur représente la qualité du Produit et sera déterminé par MetaQuotes Ltd en fonction de votre historique à sa seule discrétion. Pour les nouveaux développeurs sans historique de Produit, MetaQuotes Ltd peut utiliser ou publier des mesures de performance telles que les taux de désinstallation et/ou de remboursement pour identifier ou supprimer les Produits qui ne répondent pas aux normes acceptables, comme déterminé par MetaQuotes Ltd. MetaQuotes Ltd se réserve le droit d'afficher les Produits pour les utilisateurs d'une manière qui sera déterminée à la seule discrétion de MetaQuotes Ltd.
+
+Vos Produits peuvent être soumis à des évaluations utilisateur avec lesquelles vous n'êtes pas d'accord. Vous pouvez contacter MetaQuotes Ltd. si vous avez des questions ou des préoccupations concernant ces évaluations.
+
+Marketing de vos produits. Vous serez responsable du téléchargement de vos produits sur Market, de la fourniture des informations requises sur le Produit aux Utilisateurs et de la divulgation fidèle des autorisations de sécurité nécessaires au fonctionnement du produit sur le Terminal Trading de l'Utilisateur. Les Produits qui ne sont pas correctement téléchargés ne seront pas publiés sur Market.
+
+Restrictions de contenu Tout Produit distribué via Market doit respecter les règles du Programme Développeur.
+
+
+
+V. Tarification et paiements
+Le présent Accord couvre à la fois les Licences de produits que vous distribuez gratuitement et les Licences de produits payantes. Afin de facturer des frais pour vos Licences de Produit, vous devez disposer d'un compte de paiement valide en vertu d'un accord distinct avec un processeur de paiement.
+
+Les Licences de Produit sont offertes aux utilisateurs aux prix que vous déterminez à votre seule discrétion. Si, selon MetaQuotes Ltd, les ventes de Licence de Produit sont taxables, vous autorisez MetaQuotes Ltd à inclure le montant de taxe approprié dans le paiement facturé par l'acheteur, en plus du prix de la Licence. Les prix des Produits sont exprimés en dollars américains. Market peut afficher les prix des Produits aux Utilisateurs dans leur monnaie nationale, mais il ne sera pas tenu responsable de l'exactitude des taux de change ou de la conversion.
+
+Toutes les transactions financières sur Market sont effectuées conformément aux règlements du système de paiement de Market. Les frais d'exploitation du service Market sont égaux à 20 %.
+
+les Licences de Produits vendues dans les États membres de l'Union européenne, MetaQuotes Ltd détermine si la Licence de Produit est imposable (par exemple, soumise à la TVA). Si la Licence de Produit est taxable, MetaQuotes Ltd ou le Processeur de paiement perçoivent les taxes découlant des ventes de la Licence aux utilisateurs et les paient à l'administration fiscale compétente.
+
+Pour les Licences de Produit vendues dans d'autres pays et régions, vous devez déterminer si la Licence de Produit est taxable et connaître le taux de taxe applicable. De plus, vous êtes responsable du versement de vos taxes à l'autorité fiscale compétente.
+
+Toutes les taxes sont déduites du prix de vente de la Licence de Produit. Le montant restant (le prix de vente de la Licence moins les frais d'exploitation du service Market de 20 % et les taxes applicables) vous sera transféré.
+
+Vous pouvez également choisir de distribuer des Produits gratuitement. Si le Produit est gratuit, vous ne serez pas facturé de frais transactionnels. Il est interdit de facturer aux Utilisateurs des copies des Produits que ces Utilisateurs ont été initialement autorisés à télécharger gratuitement. Ceci n'est pas destiné à interférer sur la distribution de versions d’essai gratuit du Produit avec une option « vente incitative » pour obtenir la version complète du Produit : Tels essais gratuits des Produits sont à encourager. Dans le présent Accord, « gratuit » signifie qu’ « il n'y a aucun frais ou aucune sorte de frais pour l'utilisation du Produit ». Tous les frais reçus par les Développeurs pour les Produits distribués via Market doivent être traités par le Processeur de paiement.
+
+Prenez en charge votre Produit. Vous serez le seul responsable de la prise en charge et de la maintenance de vos Produits et de la gestion des plaintes liées à vos Produits. Vos coordonnées seront affichées dans chaque page de détails de l'application et mises à la disposition des utilisateurs à des fins d’assistance client. Le Développeur est appelé à éliminer toutes les erreurs critiques détectées dans le Produit susceptibles de mettre fin à l’exploitation du Produit. Le défaut de fournir une prise en charge adéquate de vos Produits pourrait se solder par de faibles évaluations des Produits, une exposition moins importante des produits, de faibles ventes et des litiges de facturation.
+
+Installation et réinstallation. Lors de l'achat et de l'installation d'un Produit Market, une version spéciale du fichier du programme Produit est créée pour l'Utilisateur qui a acheté le Produit et qui permet l'utilisation du Produit uniquement sur l'équipement (configuration de l'ordinateur et système d'exploitation) à partir duquel cet achat (téléchargement) a été effectué. Les utilisateurs sont autorisés à réinstaller les applications distribuées via Market sur d'autres appareils. Toutefois, si vous supprimez des Produits du service Market conformément aux sous-clauses 1, 2 ou 3 de la clause VI.1, ces Produits seront supprimés de toutes les sections Market et les Utilisateurs n'auront plus le droit ou la capacité de réinstaller les Produits affectés.
+
+
+
+VI. Reprises de produits
+Vos reprises. Vous pouvez supprimer vos Produits de la distribution future via Market à tout moment, mais vous devez vous conformer au présent Accord et aux conditions de service du compte de paiement du Processeur de paiement, y compris, mais sans s'y limiter, aux exigences de remboursement. La suppression de vos Produits de la distribution future via Market ne
+
+affecte pas les droits de licence des Utilisateurs qui ont précédemment acheté ou téléchargé vos Produits,
+supprime pas vos Produits des terminaux clients des Utilisateurs ou d’une partie du service Market où les Produits précédemment achetés ou téléchargés sont stockés pour le compte des Utilisateurs, ou
+modifie pas votre obligation de prendre en charge les Produits ou services précédemment achetés ou téléchargés par les Utilisateurs. Nonobstant ce qui précède, en aucun cas MetaQuotes Ltd ne distribuera sur aucune partie de Market (y compris, sans s'y limiter, la section où les applications précédemment achetées ou téléchargées sont stockées pour le compte des utilisateurs) un Produit que vous avez supprimé du service Market et pour lequel vous avez fourni une note écrite indiquant que cette suppression était due à
+une allégation de violation, ou de violation effective, d’un droit d'auteur, marque, secret commercial, label commercial, brevet ou autre droit de propriété intellectuelle d’une personne,
+une allégation de diffamation ou de diffamation réelle,
+une allégation de violation, ou de violation réelle, du droit de tiers à la publicité ou à la vie privée ; une allégation ou une détermination selon laquelle un tel Produit n'est pas conforme à la loi applicable.
+
+Si vous enfreignez les sous-clauses 1 ou 2 de cette clause VI.1 lors de la suppression d'un Produit Market et qu'un Utilisateur final a acheté un tel Produit dans l'année précédant la date de suppression, à la demande de MetaQuotes Ltd, vous devez rembourser à l'Utilisateur final affecté tous les montants payés par cet Utilisateur final pour ce Produit affecté, moins la partie des frais de transaction spécifiquement affectée à la carte de crédit et au traitement des paiements pour la transaction y associée.
+
+Dé-positionnement chez MetaQuotes Ltd. MetaQuotes Ltd ne se charge pas de l’obligation d’assurer le suivi des Produits ou leur contenu, mais elle se réserve le droit de supprimer le Produit du service Market ou de le reclasser à sa seule discrétion si MetaQuotes Ltd en est avisée par vous ou en est informée autrement et détermine à sa seule discrétion qu'un Produit ou une partie de celui-ci ou l'une des Fonctionnalités de votre marque :
+
+viole les droits de propriété intellectuelle ou tout autre droit d'un tiers,
+enfreint une loi applicable ou fait l'objet d'une injonction,
+est pornographique, obscène ou viole d’une manière quelconque les règles d'hébergement de MetaQuotes Ltd ou d'autres conditions de service mises à jour par MetaQuotes Ltd de temps à autre à sa seule discrétion,
+est distribué par vous en violation des termes et conditions du présent Accord,
+risque d’engager la responsabilité de MetaQuotes Ltd ou des Transporteurs agréés,
+est considéré par MetaQuotes Ltd comme étant infecté par un virus ou comme étant un logiciel malveillant, un logiciel espion ou ayant un impact négatif sur le logiciel MetaQuotes ou le logiciel d'un Transporteur agréé,
+enfreint les termes du présent Accord ou les Règles du Programme de Développeur, ou
+l'affichage du Produit affecte l'intégrité des serveurs de MetaQuotes Ltd ou ceux des Transporteurs agréés (c'est-à-dire que les Utilisateurs ne sont pas en mesure d'accéder à un tel contenu ou éprouvent d'autres difficultés).
+
+MetaQuotes Ltd se réserve le droit de suspendre et/ou d'interdire tout Développeur du service Market à sa seule discrétion. Dans le cas où votre Produit est supprimé parce qu'il est défectueux, malveillant, porte atteinte aux droits de propriété intellectuelle d'une personne, diffame, viole le droit d'un tiers à la publicité ou à la vie privée, ou ne se conforme pas à la loi applicable, et un Utilisateur final a acheté un tel Produit dans un délai d'un an avant la date de dé-positionnement,
+
+Vous devez rembourser à MetaQuotes Ltd tous les montants reçus, plus les frais y associés (c.-à-d. les reliquats et les frais de traitement des paiements), et
+MetaQuotes Ltd peut, à sa seule discrétion, retenir de vos ventes futures le montant indiqué au paragraphe 1 ci-dessus.
+
+
+VII. Identifiants de Développeur
+1. Vous reconnaissez être responsable de la confidentialité des identifiants de Développeur que MetaQuotes Ltd vous confie ou que vous pouvez choisir vous-même et serez seul responsable de toutes les applications développées sous ces identifiants. MetaQuotes Ltd peut limiter le nombre de comptes de développeurs vous attribués ou à la société ou l'organisation pour laquelle vous travaillez.
+
+
+
+VIII. Confidentialité et informations
+Nous utilisons vos données personnelles, qui nous aident à créer, développer, gérer, fournir et améliorer le service Market, d'autres services et contenus, ainsi que pour nous protéger contre la fraude et la violation des droits d'auteur.
+
+Nous pouvons par moments utiliser vos données personnelles pour vous envoyer des avis importants de modifications de nos Conditions de services ou politiques. Nous pouvons également utiliser des données personnelles à des fins internes, telles que l'audit, l'analyse de données et la recherche, qui nous permettent d'améliorer nos Services.
+
+Lorsque vous visitez notre site Web, nous pouvons recueillir des informations techniques et de navigation, telles que le type de navigateur Web, l'adresse de protocole Internet, la langue, l'emplacement, le fuseau horaire, l'identifiant unique de l'appareil ou du navigateur et les URL demandées, afin que nous puissions mieux comprendre le comportement des clients et améliorer nos services. Nous pouvons également recueillir des informations concernant des activités spécifiques que vous effectuez sur notre site Web. Ces informations nous aident à améliorer le contenu et la convivialité de nos sites Web. Ces informations sont regroupées en agrégats et nous considérons de telles informations comme non personnelles dans le cadre de notre politique de confidentialité. Si nous combinons des informations non personnelles avec des informations personnelles, les informations combinées seront traitées comme des informations personnelles aussi longtemps qu'elles demeureront combinées.
+
+Pour en savoir plus sur la façon dont nous recueillons et utilisons les informations que vous nous fournissez, veuillez lire notre Politique de confidentialité et de protection des données et notre Politique sur les Cookies.
+
+
+
+IX. Résiliation du présent Accord
+Le présent Accord sera en vigueur jusqu'à ce qu'il soit résilié par vous ou MetaQuotes Ltd, comme indiqué ci-dessous.
+
+Si vous souhaitez résilier le présent Accord, vous devez fournir à MetaQuotes Ltd un préavis écrit de trente (30) jours et cesser d'utiliser vos identifiants de Développeur.
+
+MetaQuotes Ltd peut à tout moment résilier le présent Contrat avec vous si :
+
+Vous avez enfreint une disposition du présent Accord ; ou
+MetaQuotes Ltd est tenue de le faire de par la loi ; ou
+Vous cessez d'être un Développeur enregistré ; ou
+MetaQuotes Ltd décide de ne plus fournir Market.
+
+
+X. CLAUSE DE NON-RESPONSABILITÉ SUR LES GARANTIES
+VOUS COMPRENEZ ET CONVENEZ QUE VOTRE UTILISATION DE Market EST À VOS PROPRES RISQUES ET QUE Market EST FOURNI « TEL QUEL » ET « TEL QUE DISPONIBLE » SANS AUCUNE GARANTIE.
+
+VOUS ACCEPTEZ D'UTILISER Market ET TOUT MATÉRIEL TÉLÉCHARGÉ OU OBTENU PAR L'INTERMÉDIAIRE DE L'UTILISATION DE Market À VOS PROPRES RISQUES ET DISCRÉTION ET VOUS SEREZ SEUL RESPONSABLE DE TOUT DOMMAGE SUR VOTRE SYSTÈME INFORMATIQUE OU AUTRE APPAREIL OU DE LA PERTE DE DONNÉES À LA SUITE DE CETTE UTILISATION.
+
+MetaQuotes Ltd DÉCLINE EN OUTRE EXPRESSÉMENT TOUTES GARANTIES ET CONDITIONS DE QUELQUE NATURE QUE CE SOIT, EXPLICITES OU IMPLICITES, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES ET CONDITIONS IMPLICITES DE COMMERCIALISATION, D'ADÉQUATION À UN USAGE PARTICULIER ET DE NON-VIOLATION DES DROITS DE PROPRIÉTÉ INTELLECTUELLE.
+
+
+
+XI. LIMITATION DE RESPONSABILITÉ
+VOUS COMPRENEZ ET ACCEPTEZ EXPRESSÉMENT QUE MetaQuotes Ltd, SES FILIALES ET ENTITÉS AFFILIÉES, ET SES POURVOYEURS DE LICENCE NE SONT PAS RESPONSABLES À VOTRE ÉGARD SOUS AUCUNE THÉORIE DE RESPONSABILITÉ POUR TOUT DOMMAGE DIRECT, INDIRECT, ACCIDENTEL, SPÉCIAL, CONSÉQUENT OU EXEMPLAIRE QUE VOUS POURRIEZ SUBIR, Y COMPRIS TOUTE PERTE DE DONNÉES, QUE MetaQuotes Ltd OU SES REPRÉSENTANTS AURONT ÉTÉ AVISÉS OU NON DE L’ÉVENTUALITÉ DE CES PERTES.
+
+MetaQuotes Ltd N'EST NI UN CONSEILLER EN INVESTISSEMENTS AGRÉÉ, NI UN COURTIER/CONCESSIONNAIRE, NI UN ANALYSTE FINANCIER, NI UNE BANQUE FINANCIÈRE, NI UN COURTIER EN VALEURS MOBILIÈRES NI UN PLANIFICATEUR FINANCIER. MetaQuotes Ltd EST UN FOURNISSEUR TECHNOLOGIQUE QUI, ENTRE AUTRES, FACILITE LE PARTAGE D'INFORMATIONS COMMERCIALES VIA INTERNET. LES UTILISATEURS DU SERVICE PEUVENT UTILISER LES INFORMATIONS TRADING POUR FORMULER LEURS PROPRES DÉCISIONS D'INVESTISSEMENT QUI POURRAIENT CONSISTER EN UN CALQUE TRADING D'AUTRES. TOUTES LES INFORMATIONS SUR LE MQL5.COM NE SONT FOURNIES QU’À TITRE D'INFORMATION SEULEMENT. LES INFORMATIONS NE SONT PAS DESTINÉES À ÊTRE ET NE CONSTITUENT PAS UN CONSEIL FINANCIER OU UN QUELCONQUE AUTRE CONSEIL, MAIS SONT DE NATURE GÉNÉRALE ET NE VOUS SONT PAS SPÉCIFIQUES. AVANT D’UTILISER LES INFORMATIONS DE LA SOCIÉTÉ POUR PRENDRE UNE DÉCISION D’INVESTISSEMENT, VOUS DEVRIEZ DEMANDER L’AVIS D’UN PROFESSIONNEL EN VALEURS MOBILIÈRES QUALIFIÉ ET AGRÉÉ ET FAIRE PREUVE DE VOTRE PROPRE DILIGENCE RAISONNABLE. AUCUNE DES INFORMATIONS DE NOTRE SITE N'EST DESTINÉE À SERVIR DE CONSEILS EN INVESTISSEMENT, D'OFFRE OU DE SOLLICITATION D'UNE OFFRE D'ACHAT OU DE VENTE, OU DE RECOMMANDATION, D'APPROBATION OU DE PARRAINAGE D'UN TITRE, D'UNE SOCIÉTÉ OU D'UN FONDS. LA SOCIÉTÉ N'EST PAS RESPONSABLE DE TOUTE DÉCISION D'INVESTISSEMENT PRISE PAR VOUS. VOUS ÊTES RESPONSABLE DE VOS PROPRES DÉCISIONS EN MATIÈRE DE RECHERCHE ET D'INVESTISSEMENT.
+
+
+XII. Indemnisation
+Vous acceptez par les présentes, dans la mesure permise par la loi, d'indemniser, de défendre et de tenir MetaQuotes Ltd, ses Entités affiliées et chacun de leurs administrateurs, dirigeants, employés et mandataires respectifs, ainsi que les Transporteurs agréés, à l'abri de toute réclamation, demande, cause d'action, poursuites ou procédures judiciaires de la part de tiers, ainsi que de toute perte, responsabilité, dommage, coût ou dépense (y compris les honoraires raisonnables d'avocats), résultant de ou survenant de :
+
+votre utilisation de Market en violation du présent Accord, et
+votre Produit qui enfreint un droit d'auteur, marque commerciale, secret commercial, label commercial, brevet ou autre droit de propriété intellectuelle d’une personne ou diffame une personne ou viole leurs droits de publicité ou de confidentialité.
+
+Dans la mesure permise par la loi, Vous acceptez de défendre, d'indemniser et de dégager de toute responsabilité les Processeurs de paiement applicables (qui peuvent inclure MetaQuotes Ltd ou des tiers) et les sociétés affiliées, les administrateurs, les dirigeants, les employés et les agents des Processeurs de paiement à l'égard de et contre toute réclamation, action, poursuites ou procédures judiciaires de la part de tiers, ainsi que toute perte, responsabilité, dommage, coût et dépenses (y compris les honoraires raisonnables d'avocats) découlant des taxes liées à votre distribution de Produits via Market.
+
+
+
+XIII. Modifications au présent Accord
+MetaQuotes Ltd se réserve le droit de modifier et de réviser le présent Accord. Chaque fois que des modifications sont apportées au présent Accord, MetaQuotes Ltd publiera une version révisée de l'Accord sur le site Web. La version révisée de l'Accord prend effet immédiatement après sa publication. Votre utilisation du service Market à la suite de toute modification apportée au présent Accord constituera votre approbation et votre acceptation de l'Accord révisé.
+
+
+
+XIV. Modalités légales générales
+Le présent Accord constitue l'intégralité de l'accord juridique entre Vous et MetaQuotes Ltd et régit l'utilisation du Service Market par le Développeur.
+
+Vous reconnaissez que le fait que MetaQuotes Ltd n'exerce pas ou n'applique pas ou que MetaQuotes Ltd tarde à exercer ou à appliquer un droit ou recours légal prévu par les présentes (ou par une quelconque loi applicable) ne constitue pas une renonciation à ces droits ou recours de la part de MetaQuotes Ltd et que ces droits et recours continueront d'être à la disposition de MetaQuotes Ltd.
+
+Si une disposition du présent Accord est jugée non valide par un tribunal compétent, cette disposition sera supprimée du présent Accord sans affecter les autres dispositions contenues dans le présent Accord. Les autres dispositions du présent Accord continueront d'être valides et exécutoires.
+
+Vous reconnaissez et acceptez que chaque membre du groupe de sociétés dont MetaQuotes Ltd est la société mère constitue le tiers bénéficiaire du présent Accord et que ces autres sociétés aient le droit d'appliquer directement, et de faire valoir, toute disposition du présent Accord qui confère un avantage ou des droits en leur faveur. Aucune autre personne ou société ne peut être un tiers bénéficiaire du présent Accord.
+
+Ni vous, ni MetaQuotes Ltd ne pouvez céder ou transférer les droits accordés dans le présent Accord sans le consentement écrit préalable de l'autre partie. Ni vous, ni MetaQuotes Ltd ne serez autorisés à déléguer les responsabilités ou obligations découlant du présent Accord sans le consentement écrit préalable de l'autre partie.
+
+Le présent Accord, ainsi que vos rapports avec MetaQuotes Ltd en vertu des présentes, est régi et interprété conformément aux lois de la République de Chypre, sans égard à ses dispositions en matière de conflit de lois. Vous et MetaQuotes Ltd acceptez que les tribunaux de la République de Chypre aient une juridiction non exclusive sur tout litige découlant de cet Accord. Sans préjudice de cette disposition, vous acceptez que MetaQuotes Ltd soit à tout moment autorisée à demander des mesures injonctives (ou un type équivalent de mesure juridique d’urgence) devant n’importe quel tribunal.
