@@ -5281,3 +5281,56 @@ Cette structure utilise pleinement les capacités de MQL5 (codes promo, marketpl
 **Prochaines étapes**: Développer les visuels TikTok et les scripts de contenu pour le lancement.
 
 
+Spécifiez les informations générales sur le nouveau produit : le nom doit être composé de lettres latines et refléter de manière globale son objet afin que les utilisateurs puissent rapidement trouver votre Produit dans Market parmi d'autres solutions similaires. Sélectionnez le type de produit et la catégorie dans la liste.
+
+Pour les produits payants, décochez la case "Gratuit" et saisissez le montant souhaité. Chaque vente de votre produit sera facturée à hauteur de 20 %.
+
+
+Attention aux Arnaqueurs !
+Ne faites pas confiance aux offres suspectes, telles que la vente de vos produits à des prix gonflés contre une commission, ou l’augmentation artificielle des statistiques de votre compte. Les escrocs utilisent souvent ces stratagèmes pour blanchir et encaisser de l’argent provenant de sources inconnues ou illégales.
+
+Évitez de vous engager dans de telles activités, car elles peuvent entraîner des pertes financières et le blocage de votre compte.
+
+Commun
+Découvrez comment remplir la section Informations générales
+
+Titre:
+Le nom du produit doit commencer par une majuscule, sa longueur ne doit pas dépasser 50 caractères. Seuls les caractères latins et les chiffres sont autorisés. Ne pas utiliser de mots en lettres majuscules.
+Ne pas utiliser de noms courts ou illisibles. La spécification des numéros de version dans le nom du produit n'est pas autorisée. Ne pas utiliser de noms sans signification, tels que Expert 1, Expert 2015, Expert Asia, etc.
+Produit:
+
+Experts
+Les EAs effectuent automatiquement des opérations de trading et peuvent être retestés dans le testeur de stratégie
+Type de compte:
+
+Tout
+Type d'Expert Advisor:
+         
+Prix:
+
+ USD 
+ USD 
+ USD 
+ USD 
+ USD 
+Les prix d'achat et de location des produits publiés peuvent être modifiés une fois par jour.
+Le prix minimum pour tous les produits dans Market est de 30,00 USD. Le Market service prélève 20 % de ce prix, c'est-à-dire que si le produit est vendu 100 USD, le vendeur recevra 100 USD - 20 % = 80 USD. Par conséquent, veuillez considérer attentivement le montant de la commission lorsque vous déterminez le prix de votre produit.
+
+L'argent pour le produit vendu est transféré sur le compte du vendeur immédiatement après l'achat. Le montant transféré sera bloqué pendant une semaine pour vérification. Si aucune violation de paiement n'est révélée pendant la procédure de vérification, le montant bloqué sera automatiquement débloqué dans la période spécifiée et sera disponible pour retrait.
+
+L'ensemble des données relatives aux ventes et aux téléchargements de produits sera disponible dans la section Statistiques.
+
+Activations:
+Veuillez préciser le nombre d'activations disponibles pour les acheteurs de votre application. Lors de l'activation, votre logiciel est lié au matériel de l'acheteur, de sorte que la copie de l'application ne peut pas fonctionner sur un autre PC. L'application doit être réactivée et téléchargée à nouveau afin de la lancer sur un autre ordinateur. Ce mécanisme est conçu pour protéger votre application contre toute copie non autorisée. Le nombre total d'activations est précisé ici. Si la limite d'activation est dépassée, l'acheteur devra racheter le produit. Le nombre minimum d'activations est de 5, le nombre maximum est de 20.
+MetaQuotes ID:
+DA00FE82, 73C10BB7
+Les notifications seront envoyées à cet MetaQuotes ID
+Chaque programme vendu sur Market est crypté à l'aide d'une clé spéciale afin de protéger le produit contre toute utilisation illégale. La clé de cryptage est unique pour chaque Acheteur et elle est liée à son ordinateur, de sorte que tous les Produits sur Market ont une protection automatique contre la copie.
+
+Le produit acheté peut être activé au moins cinq fois. Cela garantit l'équilibre des intérêts entre les acheteurs et les vendeurs. Le nombre d'activations disponibles est fixé par le Vendeur.
+
+
+
+
+
+
